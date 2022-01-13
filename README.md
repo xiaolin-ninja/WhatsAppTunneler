@@ -1,5 +1,5 @@
 # WhatsAppTunneler
-Bypass in-flight WiFi firewall by tunnelling traffic through WhatsApp messenger to a ground server.
+Bypass in-flight WiFi firewall by tunnelling traffic through WhatsApp messenger to a ground server, which forwards requests and sends the response back to the client on the plane as a plaintext message.
 
 ![alt text](./assets/demo/overview.png)
 
